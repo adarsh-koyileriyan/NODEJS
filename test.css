@@ -1,0 +1,20 @@
+button{
+    background-color: red;
+    border-radius: 50%;
+}
+.btn{
+    background-color: red;
+    border-radius: 50%;
+}
+#bod{
+    width: 90px;
+    height:auto;
+border-style:dotted;
+background-color: grey;
+}
+#dis{
+    background-color: rgb(74, 248, 190);
+    width: 90px;
+height: 30px;
+}
+
